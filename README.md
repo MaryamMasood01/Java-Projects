@@ -1,4 +1,6 @@
 ## Java Projects
-This repository contains Java projects completed in CSCI-1933 - Introduction to Algorithms and Data Structures in Java
+This repository contains projects written in Java.
+
+NOTE: README.md files are being added to each directory explaining each part and/or function.
 
 
